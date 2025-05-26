@@ -25,6 +25,7 @@
 ---
 
 <h2 align="center">🚀 Instalación</h2>
+
 1. Clona el repositorio:
    ```bash
    https://github.com/FrVillaI/Viveres-Taty-.git
