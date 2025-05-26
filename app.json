@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "viveres-tati",
+    "name": "Viveres Tati",
     "slug": "viveres-tati",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "assets/Icon_V.jpg",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "assets/sphas.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +17,19 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "assets/Icon_V.jpg",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "isaafvr.viverestati"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "assets/Icon_V.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a8df6f41-ed6d-474d-bccd-fb16b7dfe039"
+      }
     }
   }
 }
