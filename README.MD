@@ -45,7 +45,6 @@
 ---
 
 <h2 align="center">📸 Capturas de Pantalla</h2> 
-
     <p align="center"> 
         <img src="assets/capturas/lista_productos.jpg" /> 
         <img src="assets/capturas/lista_deudas.jpg" /> 
