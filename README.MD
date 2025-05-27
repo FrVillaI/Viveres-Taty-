@@ -46,14 +46,14 @@
 
 <h2 align="center">📸 Capturas de Pantalla</h2> 
     <p align="center"> 
-        <img src="assets/capturas/lista_productos.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/lista_deudas.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/detalle_deuda.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/pago_deuda.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/nuevo_producto_deuda.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/lista_pedidos.jpg" width="300" style="border-radius: 8px; margin: 10px;" />
-        <img src="assets/capturas/detalle_pedidos.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/nuevo_pedido.jpg" width="300" style="border-radius: 8px; margin: 10px;" />
+        <img src="assets/capturas/lista_productos.jpg" width="200" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/lista_deudas.jpg" width="200" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/detalle_deuda.jpg" width="200" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/pago_deuda.jpg" width="200" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/nuevo_producto_deuda.jpg" width="200" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/lista_pedidos.jpg" width="200" style="border-radius: 8px; margin: 10px;" />
+        <img src="assets/capturas/detalle_pedidos.jpg" width="200" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/nuevo_pedido.jpg" width="200" style="border-radius: 8px; margin: 10px;" />
     </p>
 
 <h2 align="center">📬 Contacto</h2> 
