@@ -50,11 +50,14 @@
         <img src="assets/capturas/lista_deudas.jpg" /> 
         <img src="assets/capturas/detalle_deuda.jpg" /> 
         <img src="assets/capturas/pago_deuda.jpg" /> 
+    </p>
+    <p align="center"> 
         <img src="assets/capturas/nuevo_producto_deuda.jpg" /> 
         <img src="assets/capturas/lista_pedidos.jpg" /> 
         <img src="assets/capturas/detalle_pedidos.jpg" /> 
         <img src="assets/capturas/nuevo_pedido.jpg" />
     </p>
+
 <h2 align="center">📬 Contacto</h2> 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/isaac-villacis-200609334/" target="_blank"> 
