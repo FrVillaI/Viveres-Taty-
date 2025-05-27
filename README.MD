@@ -50,10 +50,8 @@
         <img src="assets/capturas/lista_deudas.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
         <img src="assets/capturas/detalle_deuda.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
         <img src="assets/capturas/pago_deuda.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-    </p>
-    <p align="center"> 
         <img src="assets/capturas/nuevo_producto_deuda.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
-        <img src="assets/capturas/lista_pedidos.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
+        <img src="assets/capturas/lista_pedidos.jpg" width="300" style="border-radius: 8px; margin: 10px;" />
         <img src="assets/capturas/detalle_pedidos.jpg" width="300" style="border-radius: 8px; margin: 10px;" /> 
         <img src="assets/capturas/nuevo_pedido.jpg" width="300" style="border-radius: 8px; margin: 10px;" />
     </p>
